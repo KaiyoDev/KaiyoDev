@@ -1,12 +1,30 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1d4ed8,70:0891b2,100:22d3ee&height=180&section=header&text=KaiyoDev&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=JavaScript%20|%20TypeScript%20|%20Python%20|%20Claude%20|%20Codex&descAlignY=56"/>
+
 # Hi there, I'm Kaiyo 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Quant+Trader+by+Day;Multi-Agent+Architect+by+Night;The+Boulder+Never+Stops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&color=38BDF8&center=true&vCenter=true&width=560&lines=I+build+with+JavaScript+TypeScript+Python;Claude+%2B+Codex+for+fast+shipping;Keep+it+clean%2C+simple%2C+and+practical)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/KaiyoDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/KaiyoDev)
 [![GitHub User's stars](https://img.shields.io/github/stars/KaiyoDev?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/KaiyoDev)
 [![Profile Views](https://komarev.com/ghpvc/?username=KaiyoDev&style=for-the-badge&color=blueviolet)](https://github.com/KaiyoDev)
+
+</div>
+
+---
+
+## ⚡ Dev Snapshot
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=KaiyoDev&theme=tokyonight&hide_border=true" />
+
+![Repos](https://img.shields.io/badge/Public_Repos-27-0ea5e9?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Active-f59e0b?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Active-2563eb?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Active-16a34a?style=for-the-badge&logo=python&logoColor=white)
+![AI Workflow](https://img.shields.io/badge/AI_Workflow-Claude_%2B_Codex-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -42,7 +60,11 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/KaiyoDev/KaiyoDev/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaiyoDev/KaiyoDev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiyoDev/KaiyoDev/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/KaiyoDev/KaiyoDev/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
